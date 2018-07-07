@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rocketchat (0.1.15)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rocketchat
+
+BUNDLED WITH
+   1.16.2
